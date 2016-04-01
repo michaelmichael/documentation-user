@@ -1,5 +1,5 @@
 =====================================
-How is Odoo's multi-currency working?
+How does Odoo's multi-currency work?
 =====================================
 
 Overview
@@ -107,7 +107,7 @@ that you can register payments only in this currency.
 .. image:: media/works09.png
    :align: center
 
-How is Odoo's multi-currency working?
+How does Odoo's multi-currency work?
 =====================================
 
 Now that you are working in a multi-currency environment, all
